@@ -66,16 +66,160 @@ body {
 /* close css banner */
 
 /* open section pink */
+
+/* open all class section pink */
+.margin-top-about {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+/* close all class section pink */
+
+
 .section-pink {
     background-color: #FCF6F1;
     margin-top: 100px;
 }
 
 .heading-our-text {
-    color: #3B1B36;
     margin-top: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
     text-align: center;
+    color: #3B1B36;
+}
+
+.text-paragraf-our {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    color: #483055;
+    width: 1028px;
+    margin: 0px auto;
 }
 /* close section pink */
 
+/* open css about */
+.heading-one-about {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    color: #3B1B36;
+    width: 447px;
+}
 
+.text-paragraf-about {
+    width: 366px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #483055;
+}
+
+.text-point-paragraf-about {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #F6B11E;
+}
+
+.icon-cheack {
+    color: #73C938;
+    font-size: 16px;
+}
+
+.button-about {
+    width: 228px;
+    height: 50px;
+    background-color: #3B1B36;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    border-radius: 0px;
+}
+
+.group-text-about {
+    margin: 30px;
+}
+/* close css about */
+
+
+/* open css support */
+.heading-five-support {
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #3B1B36;
+
+}
+
+.support {
+    background-color: white;
+    padding: 30px;
+}
+/* close css suport */
+
+/* open css food mneu */
+.card-salad-food {
+    background: #FFFFFF;
+    border: none;
+    border-radius: 0px;
+    transition: 1s;
+}
+
+.card-salad-food:hover {
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.25);
+}
+
+.card-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #483055;
+}
+
+.card-price {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #73C938;
+}
+
+.button-buy-in-card {
+    background: #483055;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+    border-radius: 0px;
+    width: 160px;
+    height: 40px;
+}
+
+.heading-five-menu-food {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #483055;
+    text-align: center;
+}
+
+.margin-food {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/* close css food menu */
